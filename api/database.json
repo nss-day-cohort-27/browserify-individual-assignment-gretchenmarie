@@ -1,0 +1,22 @@
+{
+  "places": [
+    {
+      "name": "M.L. Rose",
+      "location": "Melrose 8th avenue",
+      "description": "burgers and craft beer",
+      "id": 4
+    },
+    {
+      "name": "Mas tacos",
+      "location": "east nashville",
+      "description": "tacos",
+      "id": 5
+    },
+    {
+      "name": "athens",
+      "location": "8th",
+      "description": "greek",
+      "id": 6
+    }
+  ]
+}
