@@ -7,6 +7,7 @@ H1{
     font-family: 'Lobster', cursive;
     font-size: 5em;
     color: white;
+    text-shadow:2px 4px #737779
 }
 
 
@@ -34,6 +35,7 @@ H1{
     width: 40em;
     margin: 10em 10em;
  align-items: center;
+ box-shadow: 5px 10px  #737779;
 }
 .placeform{
     font-style: inherit bold;
