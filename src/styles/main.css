@@ -27,8 +27,8 @@ body{
 .card{
     background-color: antiquewhite;
     border: 20px bold black;
-    border-radius: 10%;
- width: 50%;
+    width: 40em;
+    margin: 10em 10em;
  align-items: center;
 }
 .placeform{
@@ -37,4 +37,8 @@ body{
 .card-img-top{
     border-radius: 10%;
     height: 5em;
+}
+#placesContainer{
+    width: 20em;
+    margin: 10em;
 }

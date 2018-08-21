@@ -4,7 +4,7 @@ function createPlacesEntry(name, location, description, id) {
     <div class="card-body">
     <h3 class = "card=text">${name}</h3>
     <p class = "card=text">${location}</p>
-      <p class="card-text"> ${description}</p>
+    <p class="card-text"> ${description}</p>
     </div>
     <button class="entry__delete" id="deleteEntryButton--${id}">Delete Restaurant</button>
     <br></br>
